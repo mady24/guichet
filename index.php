@@ -45,22 +45,22 @@
             <hr class="sidebar-divider my-0">
 
             <!-- Nav Item - Dashboard -->
-            <li class="nav-item active">
+            <!--<li class="nav-item active">
                 <a class="nav-link" href="index.php?rubrique=tB">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Reservation</span></a>
-            </li>
+            </li>-->
 
             <!-- Divider -->
-            <hr class="sidebar-divider">
+           <!-- <hr class="sidebar-divider">-->
 
             <!-- Heading -->
-            <div class="sidebar-heading">
+           <!-- <div class="sidebar-heading">
                 Interface
-            </div>
+            </div>-->
 
             <!-- Nav Item - Pages Collapse Menu -->
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
                     aria-expanded="true" aria-controls="collapseTwo">
                     <i class="fas fa-fw fa-cog"></i>
@@ -73,10 +73,10 @@
                         <a class="collapse-item" href="index.php?rubrique=sB">Suivi</a>
                     </div>
                 </div>
-            </li>
+            </li>-->
 
             <!-- Nav Item - Utilities Collapse Menu -->
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities"
                     aria-expanded="true" aria-controls="collapseUtilities">
                     <i class="fas fa-fw fa-wrench"></i>
@@ -87,15 +87,15 @@
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Evenement:</h6>
                         <a class="collapse-item" href="index.php?rubrique=tE">R�servation</a>
-                        <a class="collapse-item" href="index.php?rubrique=sE">Suivi</a>
+                        <a class="collapse-item" href="index.php?rubrique=sE">Suivi</a>-->
                         <!--<a class="collapse-item" href="utilities-animation.html">Animations</a>
                         <a class="collapse-item" href="utilities-other.html">Other</a>-->
-                    </div>
+                    <!--</div>
                 </div>
-            </li>
+            </li>-->
 
             <!-- Nav Item - Pages Collapse Menu -->
-            <li class="nav-item">
+           <!-- <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAdmin"
                     aria-expanded="true" aria-controls="collapseAdmin">
                     <i class="fas fa-fw fa-cog"></i>
@@ -110,15 +110,20 @@
                         <a class="collapse-item" href="index.php?rubrique=admBank&etape=file">File d'attente</a>
                     </div>
                 </div>
+            </li>-->
+            <li class="nav-item">
+                <a class="nav-link" href="index.php?rubrique=caisse">
+                    <i class="fas fa-fw fa-cash-register"></i>
+                    <span>Caisse</span></a>
             </li>
 
             <!-- Divider -->
             <!--<hr class="sidebar-divider">-->
 
             <!-- Heading -->
-            <div class="sidebar-heading">
+           <!-- <div class="sidebar-heading">
                 Addons
-            </div>
+            </div>-->
 
             <!-- Nav Item - Pages Collapse Menu -->
             <!--<li class="nav-item">
@@ -164,11 +169,11 @@
             </div>
 
             <!-- Sidebar Message -->
-            <div class="sidebar-card d-none d-lg-flex">
+           <!-- <div class="sidebar-card d-none d-lg-flex">
                 <p class="text-center mb-2"><strong>L'application Mobile</strong> est disponible!</p>
                 <a class="btn btn-dark btn-sm" href="#"><i class="fab fa-google-play fa-fw fa-lg mr-2"></i>Play Store</a>
                 <a class="btn btn-dark btn-sm mt-2 aligne-items-middle" href="#"><i class="fab fa-app-store-ios fa-fw fa-lg mr-2"></i>App Store</a>
-            </div>
+            </div>-->
 
         </ul>
         <!-- End of Sidebar -->
